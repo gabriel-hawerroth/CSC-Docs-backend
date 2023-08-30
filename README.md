@@ -1,6 +1,6 @@
-# CSCDocs - backend
+# Docs - backend
 
-System developed for the shared service center of Senior Sistemas for creation and visualization of documentation, sectioned by areas.
+System developed for creating and viewing documentation.
 
 In development!  
 This project uses Java 20 and Spring 6.
