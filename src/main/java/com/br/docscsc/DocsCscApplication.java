@@ -11,5 +11,4 @@ public class DocsCscApplication {
 		System.out.println("version: " + SpringVersion.getVersion());
 		SpringApplication.run(DocsCscApplication.class, args);
 	}
-
 }
